@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable donut_circle
+drawable froyo_circle
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_shopping_cart
+drawable icecream_circle
+id donut
+id donut_description
+id fab
+id froyo
+id ice_cream
+id ice_cream_description
+id textView3
+id textintro
+layout activity_coffee_order
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string donut_order_message
+string donuts
+string droid_derser
+string froyo
+string froyo_order_message
+string ice_cream_order_message
+string ice_cream_sandwiches
+string shopping_cart
+style Theme.DroidCafe18110161
